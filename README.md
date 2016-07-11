@@ -1,0 +1,1 @@
+git clone https://github.com/ogdans3/caffe_install.git && mv caffe_install/*.bash ~/ && chmod +x install.bash && ./install.bash
